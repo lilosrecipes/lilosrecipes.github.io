@@ -19,7 +19,7 @@ Serve with crackers
 
 SOUPS
 
-GENERAL SOUP STOCK 
+GENERAL SOUP STOCK
 
 Ingredients
 Use a piece of soup meat (short ribs or flanken), a soup chicken and giblets
@@ -63,7 +63,7 @@ Stir flour mixture slowly into boiling soup until desired thickness
 Leftovers can be frozen
 
 
-MATZOH BALLS (Lilo’s Grandmother’s Recipe) 
+MATZOH BALLS (Lilo’s Grandmother’s Recipe)
 
 Ingredients
 Matzohs (1 box)
@@ -93,7 +93,7 @@ Add to bowl at the last minute
 Leftover mixture can be formed in little pancakes and fried and served with meal
 
 
-MATZOH BALLS WITH MATZOH MEAL ONLY (Lilo’s 2nd Recipe) 
+MATZOH BALLS WITH MATZOH MEAL ONLY (Lilo’s 2nd Recipe)
 
 Ingredients
 Matzoh meal
@@ -163,7 +163,7 @@ Add one large onion quartered
 Pour 1 can of tomato sauce over shanks
 Cover and let roast at low heat till done (about 2 hours)
 
-VEAL SCALLOPINO WITH CREAM SAUCE (RAHM SCHNITZEL)
+VEAL SCALLOPINI WITH CREAM SAUCE (RAHM SCHNITZEL)
 Ingredients
 Veal:  1lb
 Onion: 1 small
@@ -487,6 +487,7 @@ Garnish with sour cream and applesauce
 Flaxseed meal:  1 tbsp
 Water:  2.5 tbsp
 Mix and let sit for 5 minutes
+
 Directions
 Mix egg and potato first
 Then add remaining ingredients
