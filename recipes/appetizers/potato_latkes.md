@@ -1,8 +1,10 @@
-POTATO LATKES
-Ingredients (Yields 27-30 latkes)
-Potatoes:  Buy shredded bag (2lbs/32 oz)
+# POTATO LATKES
+(Yields 27-30 latkes)
+# Ingredients
+- 32 oz shredded russet potatoes
+
 Use entire bag + 1.5 cups
-Eggs*:  2 eggs 
+Eggs*:  2 eggs
 Onions (finely chopped):  1 cup
 Pepper:  slightly less than 1 tsp
 Kosher Salt:  1.75 tsp
