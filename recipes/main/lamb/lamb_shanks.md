@@ -1,19 +1,19 @@
-LAMB SHANKS (OR PORK LOIN)
-Ingredients
-Lamb shanks or pork loin
-Onion: 1 large
-Carrot:  1
-Tomato Sauce: 1 can
-Garlic Powder
-Flour
-Salt
+# LAMB SHANKS (OR PORK LOIN)
+## Ingredients
+- Lamb shanks or pork loin
+- 1 large white onion
+- 1 carrot
+- 1 can tomato sauce
+- Garlic Powder
+- All-purpose Flour
+- Kosher Salt
 
-Directions
-Trim as much fat as possible
-Sprinkle with salt, garlic powder
-Brown in oven uncovered 
-Pour off fat
-Add one large onion quartered
-Pour 1 can of tomato sauce over shanks
-Cover and let roast at low heat till done (about 2 hours)
+## Directions
+1. Trim as much fat as possible
+2. Sprinkle with salt, garlic powder
+3. Brown in oven uncovered
+4. Pour off fat
+5. Add one large onion quartered
+6. Pour 1 can of tomato sauce over shanks
+7. Cover and let roast at low heat till done (about 2 hours)
 

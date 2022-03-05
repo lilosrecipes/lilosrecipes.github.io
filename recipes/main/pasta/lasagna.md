@@ -1,37 +1,23 @@
-LASAGNA (SERVES 6-8)
-Ingredients
-Tomato Sauce:  3 large jars
-Eggs:  2
-Ricotta cheese: 2 cups
-Lasagna Noodles:  12 noodles
-Spinach:   ½ cup raw chopped
-Nutmeg
-Mozzarella:  1 lb
-Parmesan or Romano:  ½ cup
-Salt
-Pepper
-9x13 pan
-Directions
-Filling:
-Beat 2 eggs
-Then add 
-Ricotta
-Nutmeg
-Salt
-Pepper
-Spinach
-In pan:
-Layer s
-Sauce
-1/3 noodles
-½ ricotta mixture
-Sauce
-½ mozzarella
-1/3 noodles
-½ ricotta mixture
-Sauce
-½ mozzarella
-1/3 Noodles
-Sauce
-Grated Parm/Romano
-Cook at 375°
+# LASAGNA (SERVES 6-8)
+## Ingredients
+- 3 large jars tomato sauce
+- 2 eggs
+- 2 cups ricotta cheese
+- 12 lasagna noodles
+- 1/3 Spinach chopped
+- nutmeg
+- 1 lb Mozzarella
+- 1/2 Parmesan or Ramano grated
+- Kosher salt
+
+## Directions
+### Filling:
+1. Beat 2 eggs
+2. Add Ricotta, Nutmeg, Salt, Pepper, Spinach
+### In pan layer the following:
+1. Sauce
+2. 1/3 noodles
+3. ½ ricotta mixture
+4. Repeat 2 more times
+5. Cover with Parm/Romano
+6. Cook at 375°
