@@ -13,7 +13,7 @@ A drop of ketchup
 
 Directions
 Mix Well
-Leave in Frigidaire for a while. 
+Leave in refrigerator for a while. 
 Serve with crackers
 
 
@@ -86,7 +86,7 @@ Add parsley
 Add a few drops of almond extract
 Add some salt to taste
 Add some Matzoh meal till you get a fairly firm consistency (go easy, you can always add more after you cook one sample ball)
-Let rest in Frigidaire overnight
+Let rest in refrigerator overnight
 Form small balls by keeping hands wet in cold water
 Boil in saltwater for 20 minutes in uncovered pot
 Add to bowl at the last minute
@@ -110,7 +110,7 @@ Add a few drops of almond extract
 Add parsley
 A soup spoon of chicken fat
 Add salt to taste
-Mix well and leave in Frigidaire for a few hours, better yet, overnight
+Mix well and leave in refrigerator for a few hours, better yet, overnight
 Form small balls, keep hands wet in cold water
 Boil in saltwater for 20 minutes (uncovered pot)
 Serves about four people
@@ -386,7 +386,7 @@ Egg:  1
 Water:  Eggshell full of water
 
 Directions
-Rest in Frigidaire for 2 days
+Rest in refrigerator for 2 days
 Roll out and fill with apples or cheese
 Make  roll and bake till golden brown
 Sprinkle with powder sugar before serving

@@ -1,22 +1,24 @@
-PB M&M COOKIES
-Ingredients 
-Creamy peanut butter:  ¾ cup
-Vegetable oil: ½ cup
-Sugar:  1 ¼ cup
-Milk: 3 tbps
-Eggs:  1 
-Flour: 1 ¾ cups
-Salt: ¾ tsp
-Baking soda:  ¾ tsp 
-
-Directions
-Preheat oven to @ 375°
-Mix ¾ cup peanut butter, ½ cup vegetable oil, 1 ¼ cups sugar, 3 tablespoons milk, 1 egg, ¾ tsp salt, ¾ tsp baking soda
-Mix until well blended
-Form small balls of the batter
-Space 2 inches apart & add one M&M to each then put in the oven for 7 minutes
-Enjoy
+# PB M&M COOKIES
 Makes 17 cookies
-Generously grease 2.5 inch muffin pan cups
+
+## Ingredients
+
+
+- 3/4 cup creamy peanut butter
+- 1/2 cup vegetable oil
+- 1 1/4 cup white sugar
+- 3 tbps whole milk
+- 1 egg
+- 1 3/4 cup all-purpose flour
+- 3/4 tsp kosher salt
+- 3/4 tsp baking soda
+
+## Directions
+1. Preheat oven to @ 375°
+2. Generously grease 2.5 inch muffin pan cups
+3. Mix ¾ cup peanut butter, ½ cup vegetable oil, 1 ¼ cups sugar, 3 tablespoons milk, 1 egg, ¾ tsp salt, ¾ tsp baking soda
+4. Mix until well blended
+5. Form small balls of the batter
+6. Space 2 inches apart & add one M&M to each then put in the oven for 7 minutes
 
 
