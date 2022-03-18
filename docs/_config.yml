@@ -134,7 +134,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _recipes
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -242,9 +241,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: false
-      sidebar:
-        nav: "recipes"
+      comments: true
   # _pets
   - scope:
       path: ""
