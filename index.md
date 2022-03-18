@@ -2,13 +2,13 @@
 
 This page is dedicated to the Leeds Family Recipe's. Please enjoy!
 
-This is a mix of some
+This is a mix of some recipes:
 
-Breakfast
-Appetizers
-Soups
-Main
-Poultry
+- Breakfast
+- Appetizers
+- Soups
+- Entrees
+- Poultry
 
 
 Desserts
