@@ -1,14 +1,19 @@
-# LASAGNA (SERVES 6-8)
+---
+title: "LASAGNA"
+---
+
+(SERVES 6-8)
+
 ## Ingredients
-- 3 large jars tomato sauce
-- 2 eggs
-- 2 cups ricotta cheese
-- 12 lasagna noodles
-- 1/3 Spinach chopped
-- nutmeg
-- 1 lb Mozzarella
-- 1/2 Parmesan or Ramano grated
-- Kosher salt
+* 3 large jars tomato sauce
+* 2 eggs
+* 2 cups ricotta cheese
+* 12 lasagna noodles
+* 1/3 Spinach chopped
+* nutmeg
+* 1 lb Mozzarella
+* 1/2 Parmesan or Ramano grated
+* Kosher salt
 
 ## Directions
 ### Filling:

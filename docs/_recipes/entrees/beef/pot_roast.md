@@ -1,11 +1,14 @@
-# POT ROAST
+---
+title: "POT ROAST"
+---
+
 ## Ingredients
-- Brisket or Top Round
-- 1 large white onion
-- 1 carrot sliced
-- Tomato Sauce
-- Flour
-- Salt
+* Brisket or Top Round
+* 1 large white onion
+* 1 carrot sliced
+* Tomato Sauce
+* Flour
+* Salt
 
 ## Directions
 1. Take a piece of brisket or top round sprinkle with salt

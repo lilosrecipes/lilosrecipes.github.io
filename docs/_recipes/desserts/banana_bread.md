@@ -1,13 +1,16 @@
-# BANANA BREAD
+---
+title: "BANANA BREAD"
+---
+
 ## Ingredients
 
-- 1/2 cup margarine
-- 1 cup white sugar
-- 2 eggs beaten
-- 2 bananas mashed
-- 1/2 cup sour cream
-- 1 tsp baking soda
-- 2 cups all-purpose flour
+* 1/2 cup margarine
+* 1 cup white sugar
+* 2 eggs beaten
+* 2 bananas mashed
+* 1/2 cup sour cream
+* 1 tsp baking soda
+* 2 cups all-purpose flour
 
 ## Directions
 1. Preheat oven to @ 350°

@@ -1,12 +1,14 @@
-# VEAL SCALLOPINI WITH CREAM SAUCE (RAHM SCHNITZEL)
+---
+title: "VEAL SCALLOPINI WITH CREAM SAUCE (RAHM SCHNITZEL)"
+---
 ## Ingredients
 
-- 1 lb veal
-- 1 small white onion
-- ginger
-- sour cream
-- all-purpose flour
-- kosher salt
+* 1 lb veal
+* 1 small white onion
+* ginger
+* sour cream
+* all-purpose flour
+* kosher salt
 
 ## Directions
 1. Pound veal well

@@ -1,12 +1,14 @@
-# BAREFOOT CONTESSA’S PESTO SAUCE
+---
+title: "BAREFOOT CONTESSA’S PESTO SAUCE"
+---
 ## Ingredients
-- 1/2 cup pine nuts
-- 3 tbsp garlic (chopped)
-- 5 cups basil leaves (packed)
-- 1 tsp kosher salt
-- 1 tsp black pepper
-- 1 1/2 cup olive oil
-- 1 cup Parmesan (grated)
+* 1/2 cup pine nuts
+* 3 tbsp garlic (chopped)
+* 5 cups basil leaves (packed)
+* 1 tsp kosher salt
+* 1 tsp black pepper
+* 1 1/2 cup olive oil
+* 1 cup Parmesan (grated)
 
 ## Directions
 1. Place the walnuts, pignolis, and garlic in the bowl of a food processor fitted with a steel blade.

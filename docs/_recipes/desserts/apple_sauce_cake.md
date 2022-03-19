@@ -1,17 +1,19 @@
-# APPLE SAUCE CAKE
+---
+title: "APPLE SAUCE CAKE"
+---
 
 ## Ingredients
 
-- 1.5 cups Applesauce
-- 1 cup white sugar
-- 1/2 cup raisins
-- 1/4 lb butter
-- 1 3/4 all-purpose flour
-- 2 tbsp baking soda
-- 1 tsp cinnamon
-- 1/2 tsp ground cloves
-- 1/4 tsp kosher salt
-- 1/4 chopped nuts
+* 1.5 cups Applesauce
+* 1 cup white sugar
+* 1/2 cup raisins
+* 1/4 lb butter
+* 1 3/4 all-purpose flour
+* 2 tbsp baking soda
+* 1 tsp cinnamon
+* 1/2 tsp ground cloves
+* 1/4 tsp kosher salt
+* 1/4 chopped nuts
 
 
 ## Directions

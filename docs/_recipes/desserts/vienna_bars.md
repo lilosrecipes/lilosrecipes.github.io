@@ -1,12 +1,15 @@
-# NANCY REAGAN’S VIENNA BARS
+---
+title: "NANCY REAGAN’S VIENNA BARS"
+---
+
 ## Ingredients
 
-- 1/2 lb salted butter
-- 1.5 cups white sugar
-- 6 eggs
-- 2 1/4 cups all-purpose flour
-- 1/2 cup red currant or raspberry preserves (seedless)
-- 2 cups finely chopped walnuts
+* 1/2 lb salted butter
+* 1.5 cups white sugar
+* 6 eggs
+* 2 1/4 cups all-purpose flour
+* 1/2 cup red currant or raspberry preserves (seedless)
+* 2 cups finely chopped walnuts
 ## Directions
 1. Heat oven to 350°
 2. In large bowl, work ½ lb of room temperature butter and ½ cup of sugar with wooden spoon until creamy and well mixed

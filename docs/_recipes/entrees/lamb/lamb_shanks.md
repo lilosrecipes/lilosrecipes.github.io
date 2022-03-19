@@ -1,12 +1,14 @@
-# LAMB SHANKS (OR PORK LOIN)
+---
+title: "LAMB SHANKS (OR PORK LOIN)"
+---
 ## Ingredients
-- Lamb shanks or pork loin
-- 1 large white onion
-- 1 carrot
-- 1 can tomato sauce
-- Garlic Powder
-- All-purpose Flour
-- Kosher Salt
+* Lamb shanks or pork loin
+* 1 large white onion
+* 1 carrot
+* 1 can tomato sauce
+* Garlic Powder
+* All-purpose Flour
+* Kosher Salt
 
 ## Directions
 1. Trim as much fat as possible

@@ -1,17 +1,20 @@
-# PB M&M COOKIES
+---
+title: "PB M&M COOKIES"
+---
+
 Makes 17 cookies
 
 ## Ingredients
 
 
-- 3/4 cup creamy peanut butter
-- 1/2 cup vegetable oil
-- 1 1/4 cup white sugar
-- 3 tbps whole milk
-- 1 egg
-- 1 3/4 cup all-purpose flour
-- 3/4 tsp kosher salt
-- 3/4 tsp baking soda
+* 3/4 cup creamy peanut butter
+* 1/2 cup vegetable oil
+* 1 1/4 cup white sugar
+* 3 tbps whole milk
+* 1 egg
+* 1 3/4 cup all-purpose flour
+* 3/4 tsp kosher salt
+* 3/4 tsp baking soda
 
 ## Directions
 1. Preheat oven to @ 375°

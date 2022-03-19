@@ -1,11 +1,13 @@
-# ROAST CHICKEN
+---
+title: "ROAST CHICKEN"
+---
 ## Ingredients
-- Chicken
-- 1 large white onion
-- Salt
-- Ginger
-- Paprika
-- All-purpose Flour
+* Chicken
+* 1 large white onion
+* Salt
+* Ginger
+* Paprika
+* All-purpose Flour
 
 ## Directions
 1. Clean chicken and remove all fat

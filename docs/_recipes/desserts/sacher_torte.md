@@ -1,10 +1,13 @@
-# SACHER TORTE
+---
+title: "SACHER TORTE"
+---
 ## Ingredients
-- 9 eggs
-- 1 cup white sugar
-- 1.5 cups semi sweet-chocolate
-- 6 oz sweet butter
-- 1 tbsp rum
+* 9 eggs
+* 1 cup white sugar
+* 1.5 cups semi sweet-chocolate
+* 6 oz sweet butter
+* 1 tbsp rum
+
 ## Directions
 1. Separate 9 eggs (white in small dish, yolks in larger bowl for mixing)
 2. Mix 9 egg yolks & 1 cup of sugar and mix well
@@ -19,6 +22,6 @@
 11. Remove from form and let cool
 
 ## Icing
-- Melt small package of chocolate bits in little bit of coffee.
-- With spatula cover cake and decorate with almonds.
+1. Melt small package of chocolate bits in little bit of coffee.
+2. With spatula cover cake and decorate with almonds.
 

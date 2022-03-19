@@ -1,4 +1,6 @@
-# ALMOND CRAB CASSEROLE
+---
+title: "ALMOND CRAB CASSEROLE"
+---
 ## Ingredients
 Crabmeat:  1 cup
 Shrimp: 1 cup cleaned (I assume these are cooked too)
@@ -7,13 +9,13 @@ Celery:  1 cup chopped
 Onion:  ¼ cup minced
 Chinese Noodles:  Two 3-ounce cans
 Almonds:  1 package shaved almonds
-- 1 cup crab meat
-- 1 cup shrimp
-- 2 cans mushroom soup
-- 1 cup celery
-- 1/4 cup minced white onion
-- 6 ounce chinese noodles
-- 1 package shaved almonds
+* 1 cup crab meat
+* 1 cup shrimp
+* 2 cans mushroom soup
+* 1 cup celery
+* 1/4 cup minced white onion
+* 6 ounce chinese noodles
+* 1 package shaved almonds
 
 ## Directions
 1. Combine all ingredients in buttered casserole dish EXCEPT Almonds

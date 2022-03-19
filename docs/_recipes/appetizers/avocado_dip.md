@@ -1,10 +1,14 @@
-# AVOCADO DIP
+---
+title: "AVOCADO DIP"
+---
+
+ 
 ## Ingredients
-- 2 ripe avocados mashed
-- hard-boiled egg
-- Mayo
-- Garlic powder
-- A drop of ketchup
+* 2 ripe avocados mashed
+* hard-boiled egg
+* Mayo
+* Garlic powder
+* A drop of ketchup
 
 # Directions
 1. Mix all ingredients together

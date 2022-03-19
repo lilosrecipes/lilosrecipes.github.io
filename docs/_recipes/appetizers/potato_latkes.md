@@ -1,26 +1,30 @@
-# POTATO LATKES
+---
+title: "POTATO LATKES"
+---
+
+
 (Yields 27-30 latkes)
 ##  Ingredients
-- 32 oz shredded russet potatoes
+* 32 oz shredded russet potatoes
 
 Use entire bag + 1.5 cups
-- 2 eggs
-- 1 medium onions (1 cup)
-- 1/2 tsp of black pepper
-- 1 3/4 kosher salt
-- 4 tsp cornstarch
-- 1/2 matzoh meal
-- Vegetable oil
+* 2 eggs
+* 1 medium onions (1 cup)
+* 1/2 tsp of black pepper
+* 1 3/4 kosher salt
+* 4 tsp cornstarch
+* 1/2 matzoh meal
+* Vegetable oil
 
 ### Optional (for toppings)
-- sour cream
-- apple sauce
+* sour cream
+* apple sauce
 
 
 ### Egg Substitute
-- 1 tbsp Flaxseed meal
-- 2.5 tbsp water
-- Mix and let sit for 5 minutes
+* 1 tbsp Flaxseed meal
+* 2.5 tbsp water
+* Mix and let sit for 5 minutes
 
 ## Directions
 1. Mix egg and potato first
