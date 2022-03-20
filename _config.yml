@@ -16,14 +16,14 @@ minimal_mistakes_skin: 'mint' # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: 'en-US'
-title: 'Adev42 blog'
+title: 'Lilo's Recipes'
 title_separator: '|'
 subtitle: # site tagline that appears below site title in masthead
-name: 'Tien Duy'
-description: 'Software - Fullstack Web developper'
-url: &url 'https://tienduy-nguyen.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: Lilo's Recipes
+description: Hosting all Leeds Family recipes
+url: &url 'https://lilosrecipes.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: 'tienduy-nguyen/demo-jekyll-mmistakes' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: 'lilosrecipes/lilosrecipes.github.io' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: '/assets/images/page-cover.png' # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -93,33 +93,21 @@ analytics:
 # Site Author
 author:
   name: *name
-  avatar: '/assets/images/avatar.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: 'Love people who code'
-  location: 'Paris, France'
-  email: 'tienduy.nguyen.dev@gmail.com'
+  location: 'Atlanta, GA'
+  email: 'leeds.cameron@gmail.com'
   links:
     - label: 'Website'
       icon: 'fas fa-fw fa-link'
-      url: 'https://tienduy-nguyen.github.io'
-    - label: 'Twitter'
-      icon: 'fab fa-fw fa-twitter-square'
-      url: &twitterUrl 'https://twitter.com/tienduy_nguyen'
-    - label: 'LinkedIn'
-      icon: 'fab fa-fw fa-linkedin'
-      url: &linkedinUrl 'https://linkedin.com/in/tienduy-nguyen'
+      url: 'cameronleeds.com'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
-      url: &githubUrl 'https://github.com/tienduy-nguyen'
+      url: &githubUrl 'https://github.com/cameron-leeds'
 
 # Site Footer
 footer:
   links:
-    - label: 'Twitter'
-      icon: 'fab fa-fw fa-twitter-square'
-      url: *twitterUrl
-    - label: 'LinkedIn'
-      icon: 'fab fa-fw fa-linkedin'
-      url: *linkedinUrl
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
       url: *githubUrl
