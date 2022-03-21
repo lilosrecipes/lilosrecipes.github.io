@@ -3,7 +3,7 @@ title: "MATZOH BALLS (Lilo’s Grandmother’s Recipe)"
 date: 2022-03-21
 categories:
   - Post
-  -- Soups
+  - Soups
   - Entrees
 ---
 
