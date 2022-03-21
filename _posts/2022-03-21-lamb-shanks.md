@@ -3,6 +3,9 @@ title: "LAMB SHANKS (OR PORK LOIN)"
 date: 2022-03-21
 categories:
   - Post
+  - Lamb
+  - Pork
+  - Entrees
 ---
 
 ## Ingredients

@@ -3,6 +3,7 @@ title: "PB M&M COOKIES"
 date: 2022-03-21
 categories:
   - Post
+  - Desserts
 ---
 
 Makes 17 cookies

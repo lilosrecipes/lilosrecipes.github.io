@@ -3,6 +3,8 @@ title: "MATZOH BALLS WITH MATZOH MEAL ONLY (Lilo’s 2nd Recipe)"
 date: 2022-03-21
 categories:
   - Post
+  - Entrees
+  - Soups
 ---
 
 ## Ingredients

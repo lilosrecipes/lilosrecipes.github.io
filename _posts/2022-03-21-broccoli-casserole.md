@@ -3,6 +3,8 @@ title: "BROCCOLI CASSEROLE"
 date: 2022-03-21
 categories:
   - Post
+  - Entrees
+  - Vegetarian
 ---
 ## Ingredients
 Eggs: 6 eggs beaten

@@ -3,6 +3,7 @@ title: "STRUDEL DOUGH"
 date: 2022-03-21
 categories:
   - Post
+  - Desserts
 ---
 ## Ingredients
 * 1/4 lb salted butter

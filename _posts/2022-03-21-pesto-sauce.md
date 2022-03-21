@@ -3,6 +3,7 @@ title: "BAREFOOT CONTESSA’S PESTO SAUCE"
 date: 2022-03-21
 categories:
   - Post
+  - Sauce
 ---
 
 ## Ingredients
