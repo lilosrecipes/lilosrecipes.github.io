@@ -1,0 +1,30 @@
+# POTATO SOUP
+## Ingredients
+Onion: 1 small
+Carrots: 2 large (Allyson uses a ton of baby carrots chopped somewhat thinly)
+Celery:  2 stalks use leaves too (Use lots of celery chopped somewhat thinly)
+Potatoes:  2 medium
+- 1 small white onion
+- 2 large carrots
+- 2 celery stalks
+- 2 medium russet potatoes
+- Vegetable oil
+- Fresh parsley flakes
+- Kosher salt
+- Pepper
+- Flour
+- Osem brand Consumme Seasoning – powder (yellow container, red top)
+
+## Directions
+1. Brown finely chopped onion in small amount of vegetable oil until golden
+2. Add 1 quart of liquid (combination of stock (see recipe above) or chicken broth PLUS water)
+3. Add carrots and celery to soup
+4. While veggies are cooking, peel and cut potatoes into manageable chunks (so you can mash later)
+5. Add potatoes to pot until softened
+6. Mash potatoes with fork and add back into soup
+7. Add fresh parsley flakes
+8. Add salt and pepper to taste
+9. Use Osem Consumme seasoning as needed
+10. In small bowl, take 1 heaping soup spoon of flour and add to cup of cold water and mix
+11. Stir flour mixture slowly into boiling soup until desired thickness
+Leftovers can be frozen
