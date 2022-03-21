@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cameron Leeds"
+  name             : "Leeds Family Recipes"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Atlanta, GA"
+  bio              : "This site is dedicated to the recipes from the Leeds family."
+  location         : # "Atlanta, GA"
   email            :
   links:
     - label: "Email"
@@ -116,7 +116,7 @@ author:
       url: "https://cameronleeds.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cameron-leeds"
+      url: "https://github.com/lilosrecipes/lilosrecipes.github.io"
 
 # # Site Footer
 # footer:
@@ -268,7 +268,7 @@ compress_html:
 
 # Defaults
 defaults:
-  _posts
+  # _posts
   - scope:
       path: ""
       type: posts
