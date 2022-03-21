@@ -1,6 +1,10 @@
 ---
 title: "LAMB SHANKS (OR PORK LOIN)"
+date: 2022-03-21
+categories:
+  - Post
 ---
+
 ## Ingredients
 * Lamb shanks or pork loin
 * 1 large white onion

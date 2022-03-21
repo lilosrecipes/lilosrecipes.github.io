@@ -1,4 +1,9 @@
-# GENERAL SOUP STOCK
+---
+title: "GENERAL SOUP STOCK"
+date: 2022-03-21
+categories:
+  - Post
+---
 
 ## Ingredients
 - Use a piece of soup meat (short ribs or flanken), a soup chicken and giblets

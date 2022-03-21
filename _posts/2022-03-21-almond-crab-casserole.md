@@ -1,6 +1,10 @@
 ---
 title: "ALMOND CRAB CASSEROLE"
+date: 2022-03-21
+categories:
+  - Post
 ---
+
 ## Ingredients
 Crabmeat:  1 cup
 Shrimp: 1 cup cleaned (I assume these are cooked too)

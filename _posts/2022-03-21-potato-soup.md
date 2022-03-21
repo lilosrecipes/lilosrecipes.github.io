@@ -1,4 +1,11 @@
-# POTATO SOUP
+---
+title: "POTATO SOUP"
+date: 2022-03-21
+categories:
+  - Post
+---
+
+
 ## Ingredients
 Onion: 1 small
 Carrots: 2 large (Allyson uses a ton of baby carrots chopped somewhat thinly)

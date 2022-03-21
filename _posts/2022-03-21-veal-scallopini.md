@@ -1,5 +1,8 @@
 ---
 title: "VEAL SCALLOPINI WITH CREAM SAUCE (RAHM SCHNITZEL)"
+date: 2022-03-21
+categories:
+  - Post
 ---
 ## Ingredients
 

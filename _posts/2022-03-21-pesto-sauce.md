@@ -1,6 +1,10 @@
 ---
 title: "BAREFOOT CONTESSA’S PESTO SAUCE"
+date: 2022-03-21
+categories:
+  - Post
 ---
+
 ## Ingredients
 * 1/2 cup pine nuts
 * 3 tbsp garlic (chopped)

@@ -1,5 +1,8 @@
 ---
 title: "SWISS CHEESE QUICHE"
+date: 2022-03-21
+categories:
+  - Post
 ---
 ## Ingredients
 

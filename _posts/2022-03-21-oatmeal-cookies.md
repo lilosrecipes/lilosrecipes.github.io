@@ -1,6 +1,10 @@
 ---
 title: "Oatmeal Cookies"
+date: 2022-03-21
+categories:
+  - Post
 ---
+
 
 Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.
 
