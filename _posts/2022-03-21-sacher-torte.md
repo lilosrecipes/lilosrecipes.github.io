@@ -9,9 +9,10 @@ categories:
 ## Ingredients
 * 9 eggs
 * 1 cup white sugar
-* 1.5 cups semi sweet-chocolate
+* 2.5 cups semi sweet-chocolate (reserve 1 cup for icing)
 * 6 oz sweet butter
 * 1 tbsp rum
+* 1 tbsp coffee
 
 ## Directions
 1. Separate 9 eggs (white in small dish, yolks in larger bowl for mixing)
