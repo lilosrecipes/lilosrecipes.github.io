@@ -6,7 +6,7 @@ categories:
   - Desserts
 ---
 
-![Chocolate Chip Cookies](./_photos/choco_chip.jpg)
+![Chocolate Chip Cookies](../_photos\choco_chip.jpg)
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
 
