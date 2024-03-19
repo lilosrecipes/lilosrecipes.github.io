@@ -10,3 +10,5 @@ categories:
 * Base cookie
 * Cook
 * Thin layer of raspberry jam
+
+![Linzer Cookes](/assets/images/linzer_cookies.jpg "Linzer Cookes")

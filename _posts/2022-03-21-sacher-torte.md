@@ -32,3 +32,4 @@ Separate 9 eggs (white in small dish, yolks in larger bowl for mixing)
 1. Melt small package of chocolate bits in little bit of coffee.
 2. With spatula cover cake and decorate with almonds.
 
+![Sacher Torte](/assets/images/sacher.jpg "Sacher Torte")
