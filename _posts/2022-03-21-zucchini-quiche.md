@@ -6,6 +6,9 @@ categories:
   - Entrees
   - Vegetarian
 ---
+
+![Zucchini Quiche](/_photos/quiche.jpg "Zucchini Quiche")
+
 ## Ingredients
 
 * 3 cups zucchini (roughly 2 zucchini's)

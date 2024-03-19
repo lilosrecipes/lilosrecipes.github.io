@@ -7,6 +7,8 @@ categories:
   - Entrees
 ---
 
+![Matzoh Ball Soup](/_photos/matzoh_ball_soup.jpg "Matzoh Ball Soup")
+
 ## Ingredients
 - Matzoh crackers (1 box)
 - 1 box Matzoh Meal
