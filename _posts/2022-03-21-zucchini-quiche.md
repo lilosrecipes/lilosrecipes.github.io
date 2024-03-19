@@ -7,8 +7,6 @@ categories:
   - Vegetarian
 ---
 
-![Zucchini Quiche](/assets/images/zucchini_quiche.jpg "Zucchini Quiche")
-
 ## Ingredients
 
 * 3 cups zucchini (roughly 2 zucchini's)
@@ -27,3 +25,4 @@ categories:
 3. Add oil, eggs, onion, cheese, pinch of salt, pinch of nutmeg (1/4 tsp), parsley, Bisquick mix
 4. Bake for 45 min – 1 hour (until knife comes out clean)
 
+![Zucchini Quiche](/assets/images/zucchini_quiche.jpg "Zucchini Quiche")
