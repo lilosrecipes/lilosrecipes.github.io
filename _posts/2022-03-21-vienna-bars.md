@@ -15,7 +15,7 @@ categories:
 * 1/2 cup red currant or raspberry preserves (seedless)
 * 2 cups finely chopped walnuts
 ## Directions
-1. Heat oven to 350°
+1. Heat oven to 350f
 2. In large bowl, work ½ lb of room temperature butter and ½ cup of sugar with wooden spoon until creamy and well mixed
 3. Beat in the 2 egg yolks (save egg whites)
 4. Add flour and start mixing with fingers of one hand to make it smooth

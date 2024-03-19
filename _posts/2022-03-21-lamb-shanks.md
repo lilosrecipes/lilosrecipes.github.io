@@ -9,20 +9,22 @@ categories:
 ---
 
 ## Ingredients
-* Lamb shanks or pork loin
-* 1 large white onion
+* 2 lbs Lamb Shanks or Pork Loin
+* 1 large white onion quartered
 * 1 carrot
 * 1 can tomato sauce
-* Garlic Powder
-* All-purpose Flour
+* 1 tbsp Garlic Powder
+* All Purpose Flour for dredging
 * Kosher Salt
 
 ## Directions
-1. Trim as much fat as possible
-2. Sprinkle with salt, garlic powder
-3. Brown in oven uncovered
-4. Pour off fat
-5. Add one large onion quartered
-6. Pour 1 can of tomato sauce over shanks
-7. Cover and let roast at low heat till done (about 2 hours)
+1. Preheat oven to 350f
+2. Trim as much fat as possible
+3. Season with salt and garlic powder
+4. Dredge in All Purpose Flour
+5. Brown in oven uncovered, approximately 10 minutes
+6. Pour off fat
+7. Add onion
+8. Pour 1 can of tomato sauce over shanks
+9. Cover and let roast at low heat 250f until done (about 2 hours)
 

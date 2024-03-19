@@ -16,7 +16,7 @@ categories:
 * 1 cup Parmesan (grated)
 
 ## Directions
-1. Place the walnuts, pignolis, and garlic in the bowl of a food processor fitted with a steel blade.
+1. Place the walnuts, pine nuts, and garlic in the bowl of a food processor fitted with a steel blade.
 2. Process for 15 seconds
 3. Add: Basil leaves, Salt, and pepper
 4. With the processor running, slowly pour the olive oil into the bowl through the feed tube and process until the pesto is thoroughly pureed.

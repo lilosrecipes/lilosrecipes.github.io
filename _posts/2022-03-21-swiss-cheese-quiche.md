@@ -8,10 +8,10 @@ categories:
 ---
 ## Ingredients
 
-* 1 cup swiss cheese (shredded)
+* 1 cup swiss cheese shredded
 * 1 tbsp butter
 * 1/2 cup canned salmon (flaked)
-* 1/4 cup white onion (chopped)
+* 1/4 cup white onion chopped
 * Dill
 * 8" pastry shell
 * 1 cup whole milk
@@ -22,9 +22,9 @@ categories:
 * Nutmeg
 
 ## Directions
-1. Sautee ¼ cup chopped onion in butter until tender
+1. Sauté onion in butter until tender
 2. Add; Salmon, Dill
 3. Toss slightly; Milk, Eggs, Flour, Salt, Pepper, Nutmeg
 4. Pour into pastry shell
-5. Bake at 400° for 35 to 40 minutes
+5. Bake at 400f for 35 to 40 minutes
 

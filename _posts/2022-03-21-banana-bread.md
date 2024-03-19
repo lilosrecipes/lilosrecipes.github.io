@@ -17,13 +17,13 @@ categories:
 * 2 cups all-purpose flour
 
 ## Directions
-1. Preheat oven to @ 350°
+1. Preheat oven to 350f
 2. Grease 8” x 4” loaf pan
 3. Cream margarine and sugar until smooth
 4. Add all ingredients
 5. Mash bananas with fork
 6. Slightly beat eggs
-7. Bake @ 350° for 45 minutes to an hour or until knife comes out clean
+7. Bake 45 minutes to an hour or until knife comes out clean
 
 NOTE:  Do not mix in mixer
 

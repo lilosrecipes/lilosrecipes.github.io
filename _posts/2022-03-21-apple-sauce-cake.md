@@ -7,7 +7,7 @@ categories:
 ---
 ## Ingredients
 
-* 1.5 cups Applesauce
+* 1 1/2 cups Applesauce
 * 1 cup white sugar
 * 1/2 cup raisins
 * 1/4 lb butter
@@ -20,10 +20,11 @@ categories:
 
 
 ## Directions
-1. Heat apple sauce
-2. Add all spices
-3. Let cool
-4. Add rest of ingredients
-5. Bake @ 350° for 45 minutes or until knife comes out clean
-6. Use square baking dish
-7. You can double portion and freeze one. It keeps well.
+1. Preheat oven to 350f
+2. Heat apple sauce
+3. Add all spices
+4. Let cool
+5. Add rest of ingredients
+6. Bake for 45 minutes or until knife comes out clean
+7. Use square baking dish
+8. You can double portion and freeze one. It keeps well

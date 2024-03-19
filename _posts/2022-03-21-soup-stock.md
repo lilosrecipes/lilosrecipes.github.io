@@ -7,10 +7,10 @@ categories:
 ---
 
 ## Ingredients
-- Use a piece of soup meat (short ribs or flanken), a soup chicken and giblets
+- Use a piece of soup meat (short ribs or flank), a soup chicken and giblets
 - Add a few celery stalks
-- 1 onion
-- 3 or 4 carrots
+- 1 onion diced
+- 3 or 4 carrots diced
 
 ## Directions
 1. Combine all of the above ingredients and cook slow

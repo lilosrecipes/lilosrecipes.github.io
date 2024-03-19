@@ -6,9 +6,6 @@ categories:
   - Desserts
 ---
 
-
-Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.
-
 ## Ingredients
 
 * 1 cup butter, softened 1 cup white sugar

@@ -8,18 +8,18 @@ categories:
 ---
 
 ## Ingredients
-- Matzoh meal
-- 3 eggs
-- Almond extract
-- Chicken fat (Schmaltz)
+- 1 cup Matzoh Meal
+- 3 Eggs
+- 1 tsp Almond extract
+- 2 tbsp Chicken fat (Schmaltz)
 - Salt
-- Parsley
+- 1/4 cup Parsley
 
 ## Directions
-1. One cup of Matzoh meal with 3 eggs
-2. Add a few drops of almond extract
-3. Add parsley
-4. A soup spoon of chicken fat
+1. Combine Matzoh Meal with 3 Eggs
+2. Add a few drops of Almond Extract
+3. Add Parsley
+4. A 2 tbsp of chicken fat
 5. Add salt to taste
 6. Mix well and leave in refrigerator for a few hours, better yet, overnight
 7. Form small balls, keep hands wet in cold water
