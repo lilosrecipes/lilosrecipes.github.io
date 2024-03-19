@@ -8,11 +8,7 @@ categories:
 
 
 ## Ingredients
-Onion: 1 small
-Carrots: 2 large (Allyson uses a ton of baby carrots chopped somewhat thinly)
-Celery:  2 stalks use leaves too (Use lots of celery chopped somewhat thinly)
-Potatoes:  2 medium
-- 1 small white onion
+- 1 small white onion chopped
 - 2 large carrots
 - 2 celery stalks
 - 2 medium russet potatoes
@@ -24,7 +20,7 @@ Potatoes:  2 medium
 - Osem brand Consumme Seasoning – powder (yellow container, red top)
 
 ## Directions
-1. Brown finely chopped onion in small amount of vegetable oil until golden
+1. Brown finely onion in small amount of vegetable oil until golden
 2. Add 1 quart of liquid (combination of stock (see recipe above) or chicken broth PLUS water)
 3. Add carrots and celery to soup
 4. While veggies are cooking, peel and cut potatoes into manageable chunks (so you can mash later)

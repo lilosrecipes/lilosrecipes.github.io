@@ -15,7 +15,7 @@ categories:
 
 Use entire bag + 1.5 cups
 * 2 eggs
-* 1 medium onions (1 cup)
+* 1 cup yellow onion grated 
 * 1/2 tsp of black pepper
 * 1 3/4 kosher salt
 * 4 tsp cornstarch
