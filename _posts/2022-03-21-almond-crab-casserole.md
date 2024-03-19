@@ -8,15 +8,8 @@ categories:
 ---
 
 ## Ingredients
-Crabmeat:  1 cup
-Shrimp: 1 cup cleaned (I assume these are cooked too)
-Mushroom soup:  2 cans
-Celery:  1 cup chopped
-Onion:  ¼ cup minced
-Chinese Noodles:  Two 3-ounce cans
-Almonds:  1 package shaved almonds
 * 1 cup crab meat
-* 1 cup shrimp
+* 1 cup cooked shrimp
 * 2 cans mushroom soup
 * 1 cup celery
 * 1/4 cup minced white onion

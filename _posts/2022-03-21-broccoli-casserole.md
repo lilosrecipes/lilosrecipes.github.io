@@ -6,14 +6,8 @@ categories:
   - Entrees
   - Vegetarian
 ---
-## Ingredients
-Eggs: 6 eggs beaten
-Cheddar cheese: 12 oz grated
-Flour: 6 tbsp
-Butter: ¼ lb
-Cottage Cheese:  2 cups
-Broccoli:  1 lb chopped and steamed
 
+## Ingredients
 * 6 eggs
 * 12 oz mild cheddar cheese
 * 6 tbsp all-purpose flour
