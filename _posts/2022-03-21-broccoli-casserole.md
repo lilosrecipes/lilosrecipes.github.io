@@ -17,5 +17,5 @@ categories:
 
 ## Directions
 1. Combine all ingredients
-2. Bake at 350° for 1 hour or until knife comes out clean
+2. Bake at 350f for 1 hour or until knife comes out clean
 3. Cool 10 min before serving

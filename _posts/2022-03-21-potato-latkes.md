@@ -40,7 +40,7 @@ Use entire bag + 1.5 cups
 1. Cover counter/area with 2 layers of waxed paper taped to counter
 2. Use electric frying pan
 3. Vegetable oil should cover bottom of pan
-4. Heat oil to 375° (Use a popcorn kernel and when popped oil is ready)
+4. Heat oil to 375f (Use a popcorn kernel and when popped oil is ready)
 5. Use slotted spatula
 6. Use ice cream scoop (#30) to measure each latke (make level with scoop)
 7. Form by hand and flatten in pan
@@ -49,5 +49,5 @@ Use entire bag + 1.5 cups
 10. Add oil every 3 batches (popcorn test each time)
 11. Drain oil by placing latkes on paper towel
 12. Then transfer to parchment paper
-13. Keep warm in oven at 250°
+13. Keep warm in oven at 250f
 

@@ -24,6 +24,6 @@ categories:
 2. Add all spices
 3. Let cool
 4. Add rest of ingredients
-5. Bake @ 350° for 45 minutes or until knife comes out clean
+5. Bake @ 350f for 45 minutes or until knife comes out clean
 6. Use square baking dish
 7. You can double portion and freeze one. It keeps well.

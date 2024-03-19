@@ -17,7 +17,7 @@ categories:
 * Tabasco sauce (several shakes to taste)
 
 ## Directions
-1. Set oven to 375°
+1. Set oven to 375f
 2. In a bowl mix all ingredients together
-3. Bake at 375° for 25 minutes or until bubbly
+3. Bake at 375f for 25 minutes or until bubbly
 

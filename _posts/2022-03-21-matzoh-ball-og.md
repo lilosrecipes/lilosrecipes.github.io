@@ -9,14 +9,13 @@ categories:
 
 ## Ingredients
 - Matzoh crackers (1 box)
-- 1 box matzoh meal
-- 1 small white onion
-- 2 eggs
-- oil
-- Parsley
+- 1 box Matzoh Meal
+- 1 small White Onion
+- 2 Eggs
+- Chicken Fat (Schmaltz), Vegetable or Canola Oil
+- 1/4 cup Parsley
 - Almond extract
 - Salt
-- Matzoh meal
 
 # Directions
 1. Break up two Matzohs and soak in cold water

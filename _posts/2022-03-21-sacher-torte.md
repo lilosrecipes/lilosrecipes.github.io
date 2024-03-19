@@ -24,7 +24,7 @@ categories:
 7. With spatula slowly put egg white into cooled mixture
 8. Use round spring form pan – butter well
 9. Cut a piece of wax paper and line bottom for easier removal
-10. Bake @ 375° for 45 minutes or until toothpick comes out clean
+10. Bake @ 375f for 45 minutes or until toothpick comes out clean
 11. Remove from form and let cool
 
 ## Icing

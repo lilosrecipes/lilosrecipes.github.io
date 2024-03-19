@@ -21,5 +21,5 @@ categories:
 2. Refrigerate overnight or several hours
 3. Add noodles and mix well
 4. Sprinkle almonds on top
-5. Bake at 375° for 30 minutes or until bubbly
+5. Bake at 375f for 30 minutes or until bubbly
 

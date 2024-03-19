@@ -26,5 +26,5 @@ categories:
 2. Add; Salmon, Dill
 3. Toss slightly; Milk, Eggs, Flour, Salt, Pepper, Nutmeg
 4. Pour into pastry shell
-5. Bake at 400° for 35 to 40 minutes
+5. Bake at 400f for 35 to 40 minutes
 

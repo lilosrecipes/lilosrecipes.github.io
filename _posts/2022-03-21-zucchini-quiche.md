@@ -21,5 +21,5 @@ categories:
 ## Directions
 1. Grate or chop 3 cups of zucchini very fine
 2. Add 1/2 cup oil, 4 eggs, 1 medium onion chopped, ½ cup parmesan (or mozzarella), Pinch of salt, Pinch of nutmeg (1/2 tsp), Some chopped parsley, Bisquick mix
-3. Bake at 350° for 45 min – 1 hour (until knife comes out clean)
+3. Bake at 350f for 45 min – 1 hour (until knife comes out clean)
 
