@@ -7,7 +7,7 @@ categories:
   - Entrees
 ---
 
-![Matzoh Ball Soup](/_photos/matzoh_ball_soup.jpg "Matzoh Ball Soup")
+![Matzoh Ball Soup](/assets/images/matzoh_ball_soup.jpg "Matzoh Ball Soup") https://lilosrecipes.com/_photos/quiche.jpg
 
 ## Ingredients
 - Matzoh crackers (1 box)

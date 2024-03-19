@@ -7,9 +7,7 @@ categories:
   - Vegetarian
 ---
 
-![Zucchini Quiche](/_photos/zucchini_quiche.jpg "Zucchini Quiche")
-
-![Zucchini Quiche](https://github.com/lilosrecipes/lilosrecipes.github.io/blob/main/_photos/zucchini_quiche.jpg?raw=true "Zucchini Quiche")
+![Zucchini Quiche](/assets/images/zucchini_quiche.jpg "Zucchini Quiche")
 
 ## Ingredients
 
