@@ -32,3 +32,5 @@ categories:
 10. In small bowl, take 1 heaping soup spoon of flour and add to cup of cold water and mix
 11. Stir flour mixture slowly into boiling soup until desired thickness
 Leftovers can be frozen
+
+![Potato Soup](/assets/images/potato_soup.jpg "Potato Soup")

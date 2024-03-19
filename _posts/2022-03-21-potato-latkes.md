@@ -51,3 +51,4 @@ Use entire bag + 1.5 cups
 12. Then transfer to parchment paper
 13. Keep warm in oven at 250f
 
+![Potato Latkes](/assets/images/latkes.jpg "Potato Latkes")
