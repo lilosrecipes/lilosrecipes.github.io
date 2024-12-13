@@ -1,5 +1,5 @@
 ---
-title: "Prosciutto Pork Tenderloin & Sun-Dried Tomato Olive Tapenade"  
+title: "Sun-Dried Tomato Olive Tapenade & Prosciutto Pork Tenderloin"  
 date: 2024-12-13  
 categories:  
   - Post  
