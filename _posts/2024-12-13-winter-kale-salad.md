@@ -1,5 +1,4 @@
 ---
-
 title: "Winter Kale Salad with Apples, Pecans, & Cranberries"  
 date: 2024-12-13  
 categories:  
