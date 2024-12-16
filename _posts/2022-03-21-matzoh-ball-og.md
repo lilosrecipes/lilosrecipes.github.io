@@ -33,4 +33,4 @@ categories:
 13. Add to bowl at the last minute
 14. Leftover mixture can be formed in little pancakes and fried and served with meal
 
-![Matzoh Ball Soup](/assets/images/matzoh_ball_soup.jpg "Matzoh Ball Soup") https://lilosrecipes.com/_photos/quiche.jpg
+![Matzoh Ball Soup](/assets/images/matzoh_ball_soup.jpg "Matzoh Ball Soup")
