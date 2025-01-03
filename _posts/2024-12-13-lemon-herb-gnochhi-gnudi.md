@@ -9,9 +9,8 @@ categories:
 ## Ingredients  
 
 ### Gnocchi  
-- 1 lb whole milk ricotta  
+- 1 lb whole milk ricotta (if you don't drain ricotta add 1/2 to 1 cup extra flour) 
 - 1 large egg  
-- 1 tablespoon melted butter  
 - 3/4 cup all-purpose flour  
 - 1/2 cup Parmigiano Reggiano or pecorino, grated  
 - 1 tablespoon fresh herbs (basil, parsley, oregano)  
